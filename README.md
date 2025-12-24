@@ -11,9 +11,11 @@
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           </div>
     </div>
+<div align="center">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladntjd011)](https://solved.ac/rladntjd011)
 
+</div>
 
 <!---
 KING-WS/KING-WS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
